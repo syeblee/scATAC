@@ -1,4 +1,4 @@
-Seoyeon's modified version
+Seoyeon's version
 ##Get Started     
 
 ```bash
